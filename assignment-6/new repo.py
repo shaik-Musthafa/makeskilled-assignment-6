@@ -4,3 +4,5 @@ if __name__ == __main__:
         print("weird")
     else:
         print("Not Weird")
+
+        print("hello makeskilled")
